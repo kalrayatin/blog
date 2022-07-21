@@ -11,13 +11,13 @@ tags: [Password, Computer Security]
 
 Password and Toothbrush has a very unique relationship as they both should be changed after the particular time frame and shouldn’t be shared among anyone. One could undoubtedly contend that passwords are rapidly becoming out of date, notwithstanding, we actually use them to get to our applications, messages, online stores, and so on. Since they are still near, we should keep on capitalizing on them to further develop our framework security. Secret phrase security is ostensibly a decent spot to begin with great network safety practice.
 <!--more-->
-### Most people use a word in their passwords in various forms:
+### Most Used Passwords
 * A word — Password
 * A word followed by some numbers or symbol— Password.
 * A word with ‘leet speak’ applied — P4ssw0rd
 * Multiple words placed together — howsecureisthispass
 
-## Common phrases attack
+## Password
 
 This is where the programmer utilizes phrases that are generally connected with you and could include: birthday dates or that of family/companions, kin's and companions' names, your last name by birth, where you live or have resided, pet's name and so on.
 
