@@ -3,9 +3,11 @@ layout: post
 title: "Password and Toothbrush : A Myth?"
 author: Yatin
 date:   2022-06-01 12:12:12 +0530
-image: https://miro.medium.com/max/1400/1*G9AhPXlIYWLwoJkFD-z6GA.png
+
 categories: [Security]
 tags: [Password, Computer Security] 
+comments: true
+
 ---
 <div class="message">(Password and Toothbrush : A Myth?)</div>
 
@@ -17,7 +19,7 @@ Password and Toothbrush has a very unique relationship as they both should be ch
 * A word with ‘leet speak’ applied — P4ssw0rd
 * Multiple words placed together — howsecureisthispass
 
-## Password
+## Password Attacks
 
 This is where the programmer utilizes phrases that are generally connected with you and could include: birthday dates or that of family/companions, kin's and companions' names, your last name by birth, where you live or have resided, pet's name and so on.
 
