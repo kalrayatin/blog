@@ -25,4 +25,4 @@ You can reachout to me at : [kalra[dot]y[at]icloud[dot]com](mailto:kalra.y@iclou
 
 <p style="color: red;"><strong>!!! IMPORTANT !!!</strong>
 <br>
-I also use a GPG keypair, if you want to initiate a confidential conversation with me please use <a class="link" href="/pubkey.html">MY PUBLIC KEY</a> to encrypt the message.</p>
+I also use a GPG keypair, if you want to initiate a confidential conversation with me please use <a class="link" href="/pubkey">MY PUBLIC KEY</a> to encrypt the message.</p>
