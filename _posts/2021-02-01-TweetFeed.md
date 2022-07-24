@@ -38,14 +38,16 @@ For Example, A person P1 has 10k following, he/she got fed up with all the tweet
 **4. Store and retrieve last mentioned ID**
 *Here we are using Last Mentioned ID concept to make the code differentiate between the previous mentions and latest mentions by storing the ID for previous mention in last_id.txt. In other words, to prevent the code from getting all the mentions again and again, and re-sending all the tweets all over again.*
 **5. Feed the Tweets to end-user**
-*Here we are taking the latest mention after last mentioned ID, and then Filtering out the hashtag from the mentioned tweet and getting the filtered array by calling tweetFunc() function. Finally, we will be sending the personalized tweets to the end-user in form of reply.*### Conclusion
+*Here we are taking the latest mention after last mentioned ID, and then Filtering out the hashtag from the mentioned tweet and getting the filtered array by calling tweetFunc() function. Finally, we will be sending the personalized tweets to the end-user in form of reply.*
 
-<p style="color: red;"><strong>TweetFeed Bot can be very useful for a person who gets panic or fed up by watching irrelevant posts in feed. This bot can make his/her life somewhat easy.</strong>
+### Conclusion
+
+<p style="color: red;"><strong>TweetFeed Bot can be very useful for a person who gets panic or fed up by watching irrelevant posts in feed. This bot can make his/her life somewhat easy.</strong> </p>
 
 **References:**
 
-https://developer.twitter.com/en/docs/twitter-api
-https://www.youtube.com/watch?v=W0wWwglE1Vc
+[https://developer.twitter.com/en/docs/twitter-api](https://developer.twitter.com/en/docs/twitter-api)
+[https://www.youtube.com/watch?v=W0wWwglE1Vc](https://www.youtube.com/watch?v=W0wWwglE1Vc)
 
-**Find the full Python code in Github Repo [https://github.com/yash2806/TweetFeed]**
+**Find the full Python code in Github Repo, Click [https://github.com/yash2806/TweetFeed](here)**
 
