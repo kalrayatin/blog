@@ -30,7 +30,7 @@ For Example, A person P1 has 10k following, he/she got fed up with all the tweet
 *Here we are using tweepy library to use Twitter API via consumer key, consumer secret key, access token, and access token secret generated in https://developer.twitter.com/en*
 
 **3. Retrieve all the tweets of followings and filter out the personalized one.**
-<script src="https://gist.githubusercontent.com/yash2806/972e41b2c8b4bfbfcb4296d923088edb/raw/2149636b9f9369760122e5cc932151675a370099/TweetFeed.py"
+<script src="https://gist.githubusercontent.com/yash2806/972e41b2c8b4bfbfcb4296d923088edb/raw/2149636b9f9369760122e5cc932151675a370099/TweetFeed.py">
 </script>
 
 *Here we are searching tweets for following accounts with filtering based on date of posting and #hashtag and return them in the form of array containing all personalized tweets*
