@@ -17,7 +17,7 @@ comments: true
 A cyberattack is a malicious and deliberate attempt by an individual or organization to breach the information system of another individual or organization. Usually, the attacker seeks some type of benefit from disrupting the victim’s network.
 <!--more-->
 
-## Why is Cyber Security important?
+### Why is Cyber Security important?
 
 Cybersecurity is significant in light of the fact that it incorporates everything that relates to ensuring our touchy information, recognizable data , wellbeing data, individual data, licensed innovation, information, and legislative and industry data frameworks from theft and harm endeavored by attackers and foes.
 
