@@ -3,9 +3,8 @@
 -
   type: github
   icon: 'fab fa-github'
--
-  type: twitter
-  icon: 'fab fa-twitter'
+  url:  'https://www.github.com/in/yatinkalra/'    
+
 
 # Uncomment and complete the url below to enable more contact options
 # -
