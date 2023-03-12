@@ -26,6 +26,14 @@ UPI Lite is free of cost and you won’t be charged anything extra.
 
 According to an NPCI press release, the BHIM app now supports the UPI Lite feature. The BHIM app is currently available to eight banks' UPI Lite customers. According to the NPCI, these financial institutions include Canara Bank, HDFC Bank, Indian Bank, Kotak Mahindra Bank, Punjab National Bank, State Bank of India Union Bank of India, and Utkarsh Small Finance Bank.
 
+**Benefits**
+
+In the P2PM category, UPI Lite is an excellent option for making payments at local stores.
+
+The majority of transactions are under Rs. 200. In addition, unless you like to keep track of where you spend your money, the user does not have to see hundreds of entries on the bank account statement. There are only a few online industries in which the majority of transactions are less than Rs. 200. A few examples: Gaming, mobile recharge, and quick commerce (to some extent) are all supported by UPI Lite at this time (P2M).
+
+Upon completion, UPI Lite will address a number of SRT, scalability, and availability issues.
+
 ### See More
 
 **Click [here](https://www.npci.org.in/what-we-do/upi-lite/product-overview) to know more**
