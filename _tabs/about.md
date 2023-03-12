@@ -20,7 +20,7 @@ Since the start of undergrad, he've been particularly curious about cyber securi
 If you are also working with/interested in these topics, please feel free to initiate a discussion with me!
 Also, if you have any project/research around the aforementioned topics and you think I will be of any help, hit me up!
 
-You can reachout at : [kalra[dot]y[at]icloud[dot]com](mailto:kalra.y@icloud.com)
+You can reachout at : [yk[dot]kalra[at]icloud[dot]com(mailto:yk.kalra@icloud.com)
 
 <p style="color: red;"><strong>!!! IMPORTANT !!!</strong>
 <br>
