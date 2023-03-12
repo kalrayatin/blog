@@ -10,6 +10,7 @@ comments: true
 
 ---
 
+### Introduction
 
 A new payment option called UPI LITE makes use of the dependable NPCI Common Library (CL) application to process low-value transactions with a set value of less than 200. In order to guarantee system acceptance, and compliance, the solution uses mobile-specific UPI ecosystem protocols. The UPI LITE experience is intended to be a user-friendly method for facilitating low-value transactions without utilizing the core banking systems of a Remitter bank in real time and to adequately mitigate risk.
 <!--more-->
@@ -26,7 +27,7 @@ UPI Lite is free of cost and you won’t be charged anything extra.
 
 According to an NPCI press release, the BHIM app now supports the UPI Lite feature. The BHIM app is currently available to eight banks' UPI Lite customers. According to the NPCI, these financial institutions include Canara Bank, HDFC Bank, Indian Bank, Kotak Mahindra Bank, Punjab National Bank, State Bank of India Union Bank of India, and Utkarsh Small Finance Bank.
 
-**Benefits**
+### Benefits
 
 In the P2PM category, UPI Lite is an excellent option for making payments at local stores.
 
